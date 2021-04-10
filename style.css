@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border-bottom : 8px solid rgb(153, 0, 255) ;
+  border-right : 8px solid rgb(60, 255, 0) ;
+  border-left : 8px solid rgb(0, 247, 255) ;
+  border-top : 8px solid rgb(255, 0, 212) ;
+  
+  
+} 
